@@ -4,7 +4,7 @@
 
 Para poder correr el proyecto, hay que tener al menos la versión 2018.3.11 de Unity. 
 
-Una vez abierto Unity con el proyecto cargado, hay dos escenas que se pueden encontrar en la parte de *Hierarchy* de Unity. Una se llama **ahogado** y la otra **enorme**. Cada una de estas escenas corresponde a uno se los cuentos con el que el usuario va a trabajar. Se debe desactivar alguna de las dos para que el usuario escuche el otro cuento. Para desactivarla se hace click izquierdo sobre alguna de las escenas y se selecciona **unload scene**. Para volver a cargar una escena se debe seleccionar **load scene**.
+Una vez abierto Unity con el proyecto cargado, hay dos escenas que se pueden encontrar en la parte de *Hierarchy* de Unity. Una se llama **ahogado** y la otra **enorme**. Cada una de estas escenas corresponde a uno de los cuentos con el que el usuario va a trabajar. Se debe desactivar alguna de las dos para que el usuario escuche el otro cuento. Para desactivarla se hace click izquierdo sobre alguna de las escenas y se selecciona **unload scene**. Para volver a cargar una escena se debe seleccionar **load scene**.
 
 <img src="https://raw.githubusercontent.com/daramirezv/realidadEnsenanza/master/Imagenes%20Readme/unload.JPG"/>
 <img src="https://raw.githubusercontent.com/daramirezv/realidadEnsenanza/master/Imagenes%20Readme/load.JPG"/>
