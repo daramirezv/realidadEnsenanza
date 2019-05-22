@@ -2,7 +2,7 @@
 
 ## Instalación y Ejecución
 
-Para poder correr el proyecto, hay que tener al menos la versión 2018.3.11 de Unity. 
+Para poder correr el proyecto, hay que tener al menos la versión 2018.3.11 de Unity. Adicionalmente, es necesario tener un Vive Pro.
 
 Una vez abierto Unity con el proyecto cargado, hay dos escenas que se pueden encontrar en la parte de *Hierarchy* de Unity. Una se llama **ahogado** y la otra **enorme**. Cada una de estas escenas corresponde a uno de los cuentos con el cual el usuario va a trabajar. Se debe desactivar alguno de los dos cuentos para que el usuario escuche el otro cuento. Para desactivarlo se hace click izquierdo sobre alguna de las escenas y se selecciona **unload scene**. Para volver a cargar una escena se debe seleccionar **load scene**.
 
@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=rO6o5HWN5zw
 ### Un señor muy viejo con unas alas enormes
 https://www.youtube.com/watch?v=JOSmG80Cg84
 
-Los exámenes escritos que se deben responder después de ver el video. Se encuentran en la carpeta "Examenes" del proyecto. *Nota*: En el mismo word están ambos cuentos pero la persona solo responde el que le corresponda.
+El exámen escrito que debe responder después de ver el video se encuentran en la carpeta "Examenes" del proyecto. *Nota*: En el mismo word están ambos cuentos pero la persona solo responde el que le corresponda.
